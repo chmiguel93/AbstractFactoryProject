@@ -1,0 +1,30 @@
+D:\Jobs\Bizagi\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\bin\Debug\AbstractFactoryClient.exe.config
+D:\Jobs\Bizagi\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\bin\Debug\AbstractFactoryClient.exe
+D:\Jobs\Bizagi\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\bin\Debug\AbstractFactoryClient.pdb
+D:\Jobs\Bizagi\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\bin\Debug\AbstractFactory.dll
+D:\Jobs\Bizagi\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\bin\Debug\AbstractFactory.pdb
+D:\Jobs\Bizagi\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\obj\Debug\AbstractFactoryClient.csprojAssemblyReference.cache
+D:\Jobs\Bizagi\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\obj\Debug\AbstractFactoryClient.csproj.CoreCompileInputs.cache
+D:\Jobs\Bizagi\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\obj\Debug\AbstractFactoryClient.csproj.CopyComplete
+D:\Jobs\Bizagi\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\obj\Debug\AbstractFactoryClient.exe
+D:\Jobs\Bizagi\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\obj\Debug\AbstractFactoryClient.pdb
+D:\OneDrive - Lambton College\Jobs\Bizagi\AS Training\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\bin\Debug\AbstractFactoryClient.exe.config
+D:\OneDrive - Lambton College\Jobs\Bizagi\AS Training\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\bin\Debug\AbstractFactoryClient.exe
+D:\OneDrive - Lambton College\Jobs\Bizagi\AS Training\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\bin\Debug\AbstractFactoryClient.pdb
+D:\OneDrive - Lambton College\Jobs\Bizagi\AS Training\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\bin\Debug\AbstractFactory.dll
+D:\OneDrive - Lambton College\Jobs\Bizagi\AS Training\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\bin\Debug\AbstractFactory.pdb
+D:\OneDrive - Lambton College\Jobs\Bizagi\AS Training\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\obj\Debug\AbstractFactoryClient.csproj.AssemblyReference.cache
+D:\OneDrive - Lambton College\Jobs\Bizagi\AS Training\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\obj\Debug\AbstractFactoryClient.csproj.CoreCompileInputs.cache
+D:\OneDrive - Lambton College\Jobs\Bizagi\AS Training\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\obj\Debug\AbstractFactoryClient.csproj.CopyComplete
+D:\OneDrive - Lambton College\Jobs\Bizagi\AS Training\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\obj\Debug\AbstractFactoryClient.exe
+D:\OneDrive - Lambton College\Jobs\Bizagi\AS Training\AbstractFactory\AbstractFactoryExample\AbstractFactoryProject\AbstractFactoryClient\obj\Debug\AbstractFactoryClient.pdb
+D:\OneDrive - Lambton College\Tech Projects\Projects\PublicGit\General\AbstractFactoryProject\AbstractFactoryClient\bin\Debug\AbstractFactoryClient.exe.config
+D:\OneDrive - Lambton College\Tech Projects\Projects\PublicGit\General\AbstractFactoryProject\AbstractFactoryClient\bin\Debug\AbstractFactoryClient.exe
+D:\OneDrive - Lambton College\Tech Projects\Projects\PublicGit\General\AbstractFactoryProject\AbstractFactoryClient\bin\Debug\AbstractFactoryClient.pdb
+D:\OneDrive - Lambton College\Tech Projects\Projects\PublicGit\General\AbstractFactoryProject\AbstractFactoryClient\bin\Debug\AbstractFactory.dll
+D:\OneDrive - Lambton College\Tech Projects\Projects\PublicGit\General\AbstractFactoryProject\AbstractFactoryClient\bin\Debug\AbstractFactory.pdb
+D:\OneDrive - Lambton College\Tech Projects\Projects\PublicGit\General\AbstractFactoryProject\AbstractFactoryClient\obj\Debug\AbstractFactoryClient.csproj.AssemblyReference.cache
+D:\OneDrive - Lambton College\Tech Projects\Projects\PublicGit\General\AbstractFactoryProject\AbstractFactoryClient\obj\Debug\AbstractFactoryClient.csproj.CoreCompileInputs.cache
+D:\OneDrive - Lambton College\Tech Projects\Projects\PublicGit\General\AbstractFactoryProject\AbstractFactoryClient\obj\Debug\AbstractFactoryClient.csproj.CopyComplete
+D:\OneDrive - Lambton College\Tech Projects\Projects\PublicGit\General\AbstractFactoryProject\AbstractFactoryClient\obj\Debug\AbstractFactoryClient.exe
+D:\OneDrive - Lambton College\Tech Projects\Projects\PublicGit\General\AbstractFactoryProject\AbstractFactoryClient\obj\Debug\AbstractFactoryClient.pdb
